@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "ae089bb3-5999-446a-98d0-398b3462d0f8",
+    "name": "Admin",
+    "email": "admin@local.com",
+    "password": "$2b$10$JlVL5Crxw7ab430fus2JjeyYSJGYRgrbyCZla6hpQYkWvjfWSqxaS",
+    "role": "admin",
+    "avatar": "https://ui-avatars.com/api/?name=Admin&background=random",
+    "address": "",
+    "phone": "",
+    "createdAt": "2025-10-03T12:14:13.454Z",
+    "updatedAt": "2025-10-03T12:14:13.474Z"
+  },
+  {
+    "id": "67a9ac32-d61f-413f-a1f8-e646fdfb1045",
+    "name": "jen",
+    "email": "jyothirmayitulli@gmail.com",
+    "password": "$2b$10$nR/U9eil4/PrMr4zrap5KOEbQJZEnKI3apTGALLNRKc4V7cwIgoZC",
+    "role": "user",
+    "avatar": "https://ui-avatars.com/api/?name=jen&background=random",
+    "address": "",
+    "phone": "",
+    "createdAt": "2025-10-03T12:16:19.358Z",
+    "updatedAt": "2025-10-03T12:16:19.358Z"
+  },
+  {
+    "id": "fa00f0e1-f40e-4ebc-8359-67c2a2a757c3",
+    "name": "freeshu",
+    "email": "freeshu@gmail.com",
+    "password": "$2b$10$fORSeuNcXK8JoQxoRhbDN.LruzvmOkSCG2E5F2PQqRqxQzz4p/1W2",
+    "role": "user",
+    "avatar": "https://ui-avatars.com/api/?name=freeshu&background=random",
+    "address": "",
+    "phone": "",
+    "createdAt": "2025-10-05T00:39:36.023Z",
+    "updatedAt": "2025-10-05T00:39:36.023Z"
+  }
+]

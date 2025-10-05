@@ -36,7 +36,7 @@
     "id": "PROD-002",
     "name": "Nightgown",
     "description": "Trendy nightgown that combines style and functionality for the modern wardrobe.",
-    "price": 135.79,
+    "price": 136,
     "discountPrice": 126.87,
     "countInStock": 50,
     "sku": "SL-243",
@@ -55,7 +55,7 @@
     ],
     "collections": "Luxury Collection",
     "material": "Leather",
-    "gender": "Men",
+    "gender": "Women",
     "images": [
       {
         "url": "/images/products/nightgown-2.jpg",
@@ -65,7 +65,7 @@
     "rating": 3.8,
     "numReviews": 34,
     "createdAt": "2024-01-01T00:00:00.000Z",
-    "updatedAt": "2024-01-01T00:00:00.000Z"
+    "updatedAt": "2025-10-05T00:24:55.019Z"
   },
   {
     "id": "PROD-003",
@@ -245,7 +245,7 @@
         "altText": "Bodycon Dress Image"
       }
     ],
-    "rating": 5.0,
+    "rating": 5,
     "numReviews": 34,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
@@ -908,7 +908,7 @@
         "altText": "Cufflinks Image"
       }
     ],
-    "rating": 4.0,
+    "rating": 4,
     "numReviews": 38,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
@@ -1558,7 +1558,7 @@
         "altText": "Cover-Up Image"
       }
     ],
-    "rating": 5.0,
+    "rating": 5,
     "numReviews": 5,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
@@ -1735,7 +1735,7 @@
         "altText": "Formal Blazer Image"
       }
     ],
-    "rating": 5.0,
+    "rating": 5,
     "numReviews": 19,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
@@ -2251,7 +2251,7 @@
         "altText": "Pajama Set Image"
       }
     ],
-    "rating": 4.0,
+    "rating": 4,
     "numReviews": 24,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
@@ -2438,7 +2438,7 @@
     "name": "Sleep Shirt",
     "description": "Contemporary sleep shirt designed with modern aesthetics and superior comfort in mind.",
     "price": 66.62,
-    "discountPrice": 55.0,
+    "discountPrice": 55,
     "countInStock": 26,
     "sku": "SL-822",
     "category": "Sleepwear",
@@ -3332,7 +3332,7 @@
         "altText": "Sleep Shorts Image"
       }
     ],
-    "rating": 5.0,
+    "rating": 5,
     "numReviews": 11,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
@@ -3368,7 +3368,7 @@
         "altText": "Polo Shirt Image"
       }
     ],
-    "rating": 4.0,
+    "rating": 4,
     "numReviews": 22,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
@@ -3624,7 +3624,7 @@
         "altText": "Sweatpants Image"
       }
     ],
-    "rating": 5.0,
+    "rating": 5,
     "numReviews": 47,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
@@ -4604,7 +4604,7 @@
         "altText": "Tie Image"
       }
     ],
-    "rating": 4.0,
+    "rating": 4,
     "numReviews": 21,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
@@ -4641,7 +4641,7 @@
         "altText": "Cocktail Dress Image"
       }
     ],
-    "rating": 4.0,
+    "rating": 4,
     "numReviews": 23,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
@@ -4892,7 +4892,7 @@
         "altText": "Sleep Shirt Image"
       }
     ],
-    "rating": 5.0,
+    "rating": 5,
     "numReviews": 31,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
@@ -5215,7 +5215,7 @@
         "altText": "Compression Shirt Image"
       }
     ],
-    "rating": 4.0,
+    "rating": 4,
     "numReviews": 22,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
@@ -5288,7 +5288,7 @@
         "altText": "Raincoat Image"
       }
     ],
-    "rating": 4.0,
+    "rating": 4,
     "numReviews": 9,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
@@ -5324,7 +5324,7 @@
         "altText": "Formal Blazer Image"
       }
     ],
-    "rating": 4.0,
+    "rating": 4,
     "numReviews": 27,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"

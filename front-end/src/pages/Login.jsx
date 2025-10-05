@@ -7,12 +7,13 @@ import login from '../assets/login.webp';
 export const Login = () => {
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
+  const [role, setRole] = useState('user')
   const [errors, setErrors] = useState({})
   const [isLoading, setIsLoading] = useState(false)
   const { loginUser } = useApp()
   const navigate = useNavigate()
   const [searchParams] = useSearchParams()
-  const redirectTo = searchParams.get('redirect') || '/profile'
+  const redirectTo = searchParams.get('redirect') || (role === 'admin' ? '/admin' : '/profile')
   
   const validateForm = () => {
     const newErrors = {}
@@ -43,7 +44,7 @@ export const Login = () => {
     setIsLoading(true);
     
     try {
-      const result = await loginUser({ email, password });
+      const result = await loginUser({ email, password, role });
       
       if (result.success) {
         toast.success('Successfully logged in!');
@@ -95,6 +96,19 @@ export const Login = () => {
             placeholder='Enter your password' 
           />  
           {errors.password && <p className="text-red-500 text-sm mt-1">{errors.password}</p>}
+          </div>
+          <div className="mb-4">
+            <label className='block text-sm font-semibold mb-2'>Login as</label>
+            <div className="flex items-center gap-4">
+              <label className="flex items-center gap-2">
+                <input type="radio" name="role" value="user" checked={role === 'user'} onChange={() => setRole('user')} />
+                <span>User</span>
+              </label>
+              <label className="flex items-center gap-2">
+                <input type="radio" name="role" value="admin" checked={role === 'admin'} onChange={() => setRole('admin')} />
+                <span>Admin</span>
+              </label>
+            </div>
           </div>
           <button 
             type='submit' 

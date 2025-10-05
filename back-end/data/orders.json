@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "id": "ORD-1759628468906-cl4v4b2fn",
+    "userId": "fa00f0e1-f40e-4ebc-8359-67c2a2a757c3",
+    "items": [
+      {
+        "id": "42a9d03e-8f99-4907-90db-610f7b0529ac",
+        "sku": "FO-397",
+        "name": "Cufflinks",
+        "price": 42.98,
+        "quantity": 4,
+        "selectedSize": "XS",
+        "selectedColor": "Navy",
+        "image": "/images/products/cufflinks-70.jpg"
+      },
+      {
+        "id": "ddd8369e-204c-440e-9ab6-eac2d09989ed",
+        "name": "Stylish Shirt",
+        "price": 120,
+        "quantity": 3,
+        "selectedSize": "S",
+        "selectedColor": "Red",
+        "image": "https://picsum.photos/500/500?random=1"
+      },
+      {
+        "id": "80e467c7-6a3c-4566-8604-0f1c63686276",
+        "name": "Stylish Shirt",
+        "price": 120,
+        "quantity": 2,
+        "selectedSize": "M",
+        "selectedColor": "Red",
+        "image": "https://picsum.photos/500/500?random=1"
+      },
+      {
+        "id": "96cb3f9c-18e9-435a-a28d-db39d5a7c3a7",
+        "sku": "DR-251",
+        "name": "Bodycon Dress",
+        "price": 98.76,
+        "quantity": 2,
+        "selectedSize": "XL",
+        "selectedColor": "Brown",
+        "image": "/images/products/bodycon-dress-7.jpg"
+      },
+      {
+        "id": "b5041f40-0b03-4cb5-94c5-7c166a58964f",
+        "sku": "FO-100",
+        "name": "Bow Tie",
+        "price": 110.41,
+        "quantity": 2,
+        "selectedSize": "XL",
+        "selectedColor": "Orange",
+        "image": "/images/products/bow-tie-40.jpg"
+      }
+    ],
+    "total": 1190.26,
+    "status": "Processing",
+    "shippingAddress": "Default Address",
+    "paymentMethod": "Card",
+    "createdAt": "2025-10-05T01:41:08.915Z",
+    "updatedAt": "2025-10-05T01:41:08.915Z",
+    "trackingNumber": "TRK-1759628468915",
+    "estimatedDelivery": "2025-10-12T01:41:08.915Z"
+  },
+  {
+    "id": "ORD-1759629015936-fqbqgf2b0",
+    "userId": "fa00f0e1-f40e-4ebc-8359-67c2a2a757c3",
+    "items": [
+      {
+        "id": "60807755-e4eb-418c-8329-7e15703e0a95",
+        "sku": "BO-468",
+        "name": "Bootcut Jeans",
+        "price": 17.99,
+        "quantity": 1,
+        "selectedSize": "S",
+        "selectedColor": "Burgundy",
+        "image": "/images/products/bootcut-jeans-17.jpg"
+      },
+      {
+        "id": "f4361129-0ddc-484b-82ff-00136d54a727",
+        "sku": "FO-355",
+        "name": "Canvas Sneakers",
+        "price": 55.82,
+        "quantity": 1,
+        "selectedSize": "10.5",
+        "selectedColor": "Red",
+        "image": "/images/products/canvas-sneakers-64.jpg"
+      }
+    ],
+    "total": 73.81,
+    "status": "Processing",
+    "shippingAddress": "Default Address",
+    "paymentMethod": "Card",
+    "createdAt": "2025-10-05T01:50:15.936Z",
+    "updatedAt": "2025-10-05T01:50:15.936Z",
+    "trackingNumber": "TRK-1759629015936",
+    "estimatedDelivery": "2025-10-12T01:50:15.936Z"
+  }
+]

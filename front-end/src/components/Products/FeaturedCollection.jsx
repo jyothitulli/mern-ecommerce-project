@@ -16,7 +16,7 @@ export const FeaturedCollection = () => {
         <p className="text-lg text-gray-600 mb-6">
           Discover high-quailty, comfortable clothing that effortlessly blends style and functionality. Our collection is designed to keep you looking and feeling great, no matter where your day takes you.
         </p>
-        <Link to="/collection/all" className='bg-black text-white px-6 py-3 rounded-lg text-lg hover:bg-gray-800'>
+        <Link to="/search" className='bg-black text-white px-6 py-3 rounded-lg text-lg hover:bg-gray-800'>
         Shop Now
         </Link>
         </div>
